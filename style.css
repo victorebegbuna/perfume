@@ -1,0 +1,39 @@
+.frame1 {
+    background-color: rgb(247, 243, 235);
+    width: 200px;
+    height: 300px;
+    float: left;
+    padding: 0px;
+    font-size:15px;
+}
+
+.frame2{
+
+    color: black;
+    
+}
+
+.price{
+   color: green;
+   float:none;
+}
+
+.price2{
+    font-size:x-small;
+    font-style: italic;
+    color: slategrey;
+}
+
+.cart{
+    background-color: green;
+    width: 140px;
+    height: 25px;
+    border-radius: 5px;
+    color: white;
+    margin:auto;
+    
+    
+}
+.frame3{
+    color: blue;
+}
